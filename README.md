@@ -11,5 +11,5 @@ I've had the idea of creating a website which makes it easy to find great spots 
 
 My goal for this project is to help improve my coding skills as well as documenting this project so others can utilizing my guide as a starting point for their own projects.
 
-With Love,
+With Love,<br>
 Prav
