@@ -13,7 +13,7 @@
   $instagram_handle = $_POST["instagram_handle"];
   $post_url = $_POST["post_url"];
 
-  $con = mysqli_connect("localhost","pravallika","Murali12!", "photo_location_app");
+  $con = mysqli_connect("servername","username","password", "database");
   if (!$con){
     die('Could not connect: ' . mysqli_error($con));
   }
